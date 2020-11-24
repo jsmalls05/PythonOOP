@@ -7,7 +7,7 @@
 
 def palindrome (stringInput):
     newstring = ""
-    for i in range(len(stringInput)-1, -1, -1)
+    for i in range(len(stringInput)-1, -1, -1):
         newstring += stringInput[i]
     if newstring != stringInput:
         return (False)
