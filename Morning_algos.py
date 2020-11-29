@@ -1,7 +1,7 @@
 #“ String: Is Palindrome
 #Create a function that returns a boolean whether the string is a strict palindrome. For "a x a" or "racecar", return true. Do not ignore spaces, punctuation and capitalization: if given "Dud" or "oho!", return false.”
 
-#Excerpt From: Martin Puryear. “Algorithm Challenges: E-book for Dojo Students.” iBooks.  
+#Excerpt From: Martin Puryear. “Algorithm Challenges: E-book for Dojo Students.” iBooks
 
 1. 
 
