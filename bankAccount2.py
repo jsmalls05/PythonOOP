@@ -29,7 +29,7 @@ class BankAccount:
         return self
 
 checking = BankAccount(0.025, 100)
-savings = BankAccount(0.10, 5020
+savings = BankAccount(0.10, 5020)
 
 
 class User:	
