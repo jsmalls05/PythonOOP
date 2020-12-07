@@ -1,4 +1,4 @@
-class Player():
+class Player(): 
     def __init__(self, strengthInput, nameInput):
         #this is where we define the attributes of a player
         self.health = 100
