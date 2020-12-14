@@ -3,7 +3,7 @@
 
 def countDown(numInput):
     newArr = []
-    for i in range(numInput, -1, -1):
+    for i in range(numInput, -1, -1): 
         newArr.append(i)
 
     return newArr
