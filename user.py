@@ -2,7 +2,7 @@ class User:
     def __init__(self, nameInput, emailInput):
         self.name = "nameInput"
         self.email = "emailInput"
-        self.checking = BankAccount(0.05, 0)
+        self.checking = BankAccount(0.05, 0) 
         self.savings = BankAccount(0.10, 0)
 
     def make_deposit(self, accountType):
