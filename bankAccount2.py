@@ -4,7 +4,7 @@ class BankAccount:
         self.balance = balance
 
     def deposit(self, amount):
-        print(f"depositing ${amount}...")
+        print(f"depositing ${amount}...") 
         self.balance += amount
 
         return self
