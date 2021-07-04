@@ -12,7 +12,7 @@ class BankAccount:
     def withdraw(self, amount):
         if self.balance >= amount:
             print(f"withdrawing ${amount}...")
-            self.balance>= amount
+            self.balance>= amount 
         else:
             print("insufficient funds, deducting $2.50")
             self.balance -= 2.50
